@@ -11,5 +11,6 @@ namespace Vsistematico.Models
 {
     internal class Libro
     {
+
     }
 }

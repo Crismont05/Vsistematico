@@ -8,5 +8,6 @@ namespace Vsistematico.Models
 {
     internal class Autor
     {
+        int xd;
     }
 }
